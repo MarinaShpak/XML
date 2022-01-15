@@ -1,1 +1,22 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+ <body>
+<bug_id>1</bug_id>
+	<title>Photo does not re-load after deleting on the add experience page</title>
+	<severity>Critical</severity>
+	<priority>Medium</priority>
+	<environment>Win 10 x64, Google Chrome 97.0.4692.71</environment>
+	<precondition>залогиниться на сайте</precondition>
+	<STR>
+		<step_1>На главной странице нажимаем добавить впечатление</step_1>
+		<step_2>Выбрать тему впечатления, нажать продолжить</step_2>
+		<step_3>Добавить название и описание, указать продолжительность, выбрать язык, нажать продолжить</step_3>
+		<step_4>Нажать загрузить фото</step_4>
+		<step_5>После загрузки фото нажать на значок корзины для удаления фото</step_5>
+		<step_6>После удаления нажать на загрузить фото, выбрать фото ранее загруженное и удаленное</step_6>
+      </STR>
+   <AR>Удаленное фото повторно не загружается</AR>
+	 <ER>Фото, которое было удалено возможно повторно загрузить</ER>
+	 <attachments>Video link</attachments>
+  </body>
+</bug_report>
