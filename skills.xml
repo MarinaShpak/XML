@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+	<heading>SKILLS</heading>
+<body>
+	<skill>Базовая теория</skill>
+	<skill>Что такое клиент серверная архитектура</skill>
+	<skill>Ответы сервера</skill>
+	<skill>Структуры запросов и ответов</skill>
+	<skill>Что такое JSON, XML. Их структура</skill>
+	<skill>Тестирование API</skill>
+	<skill>Снятие и чтение логов</skill>
+	<skill>Postman, Fidler</skill>
+	<skill>VPN</skill>
+	<skill>Dev Tools веб браузеров (Google Chrome, FireFox)</skill>
+	<skill>Мобильное тестирование</skill>
+	<skill>Особенность iOS, Android, гайдлайны</skill>
+	<skill>Сборка iOS приложений на XCode</skill>
+	<skill>Сборка Android приложений на Android Studio</skill>
+	<skill>Перехват мобильного трафика (сниффинг) через Charles</skill>
+	<skill>Настройка прокси на iOS и Android</skill>
+	<skill>Командная строка (terminal) Linux Ubuntu. Копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса</skill>
+	<skill>Простой bash скриптринг , автоматизация рутинных задач на сервере</skill>
+	<skill>Доступ к удалённым серверам</skill>
+	<skill>Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join</skill>
+	<skill>Git</skill>
+	<skill>Jmeter</skill>
+	<skill>Методология разработки Scrum</skill>
+	<skill>Python. Создание собственного клиент-серверного приложения</skill>
+</body>
+</skills>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+	<master>
+		<movie>Titanic</movie>
+		<serial>The Walking Dead</serial>
+		<food>burger</food>
+		<country>India</country>
+	</master>
+</person>
